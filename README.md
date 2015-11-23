@@ -4,13 +4,13 @@
 ##使用方式
 
 * 当前的Activity继承 
- ```java
+```java
  public class MainActivity extends PictureBaseActivity{
  //..... todo
  }
 ```
 * 点击调用 
- ```java
+```java
 showChoiceDialog();
 ```
 * 重写：
