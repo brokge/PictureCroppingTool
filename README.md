@@ -29,5 +29,7 @@ showChoiceDialog();
         mImageView.setImageBitmap(BitmapUtil.decodeUriAsBitmap(this, uri));
     }
 ```
+##样式
+![图片](snapt/device-2015-11-23-144845.png)
 
 
