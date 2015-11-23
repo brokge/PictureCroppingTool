@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/picture_choice_dialog_gallery"
+        style="@style/PictureSelectItemStyle"
+        android:text="通过相册选择" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/color_itemline" />
+
+    <TextView
+        android:id="@+id/picture_choice_dialog_camera"
+        style="@style/PictureSelectItemStyle"
+        android:text="相机" />
+</LinearLayout>
