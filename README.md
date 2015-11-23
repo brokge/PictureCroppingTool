@@ -37,7 +37,7 @@ showChoiceDialog();
 ![图片](snapt/device-2015-11-23-145433.png)
 ![图片](snapt/device-2015-11-23-145401.png)
 
-下载demo
-![demo-apk](snapt/demo.apk)
+* 下载demo
+[demo-apk](https://github.com/brokge/picturetool/blob/master/snapt/demo.apk)
 
 
