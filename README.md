@@ -31,5 +31,13 @@ showChoiceDialog();
 ```
 ##样式
 ![图片](snapt/device-2015-11-23-144845.png)
+![图片](snapt/device-2015-11-23-145056.png)
+![图片](snapt/device-2015-11-23-145230.png)
+![图片](snapt/device-2015-11-23-145309.png)
+![图片](snapt/device-2015-11-23-145433.png)
+![图片](snapt/device-2015-11-23-145401.png)
+
+下载demo
+![demo-apk](snapt/demo.apk)
 
 
