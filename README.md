@@ -1,5 +1,7 @@
-# picturetool
-单个图片选择和裁剪，一般用于头像选择和裁剪。
+# PictureCroppingTool
+
+> 单个图片选择和裁剪，一般用于头像选择和裁剪。
+
 ##本例所采用思路：
 * 相册选择：把图片的路径封装成 uri 对象的方式，进行不同Activity 之间的传递，比如从 galley-》pictureCropperActivity。
 * 相机拍照选择：相机在调用的时候设置输出路径，拿到路径，也是封装 Uri 对象，进行不同的 activity 之间的传递。
@@ -58,6 +60,8 @@ showChoiceDialog();
 
 * 下载demo
 
-[demo-apk](https://github.com/brokge/picturetool/blob/master/snapt/demo.apk)
+[Demo-apk](https://github.com/brokge/picturetool/blob/master/snapt/demo.apk)
+
+
 
 
